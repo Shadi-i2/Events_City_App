@@ -1,0 +1,20 @@
+
+:root { --brand-primary:#3457D5; --brand-secondary:#0BA67F; --brand-muted:#f5f6f8; }
+body { font-family: 'Cairo','Tajawal',sans-serif; }
+
+.hero-banner { height: 360px; }
+.hero-banner .hero-img { height: 100%; object-fit: cover; filter: brightness(0.7); }
+.hero-banner .hero-overlay { position: absolute; inset: 0; padding: 2rem; }
+
+.thumb-circle-lg, .thumb-circle-md { border-radius: 50%; object-fit: cover; display:block; margin:0 auto; }
+.thumb-circle-lg { width:200px; height:200px; }
+.thumb-circle-md { width:170px; height:170px; }
+
+.card-title-ribbon { background: var(--brand-secondary); color:#fff; padding:.35rem .6rem; display:inline-block; border-radius:.375rem; }
+
+.event-hero { width:100%; max-height:420px; object-fit:cover; border-radius:.5rem; }
+
+html[dir="rtl"] .carousel-control-prev-icon { transform: scaleX(-1); }
+html[dir="rtl"] .carousel-control-next-icon { transform: scaleX(-1); }
+
+.btn-group .btn.active { background-color: #212529; color: #fff; }
