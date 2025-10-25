@@ -4,18 +4,17 @@
     "title_ar": "معرض دمشق الدولي",
     "title_en": "Damascus International Fair",
     "date": "2025-08-27",
-    "category": "culture",
+    "category": "family",
     "city_ar": "دمشق",
     "city_en": "Damascus",
     "venue": "مدينة المعارض",
     "organizer": "وزارة الاقتصاد والتجارة الخارجية",
-    "thumb": "https://picsum.photos/seed/ev-001-thumb/400/400",
+    "thumb": "/assets/images/events/damas.jpg",
     "gallery": [
-      "https://picsum.photos/seed/ev-001-g1/1200/700",
-      "https://picsum.photos/seed/ev-001-g2/1200/700",
-      "https://picsum.photos/seed/ev-001-g3/1200/700"
+      "/assets/images/events/damas1.jpg",
+      "/assets/images/events/damas2.jpg"
     ],
-    "map": "https://picsum.photos/seed/ev-001-map/640/360",
+    "map": "/assets/images/events/map_damas.png",
     "summary_ar": "منصة اقتصادية وثقافية كبرى على مستوى المنطقة.",
     "summary_en": "A major economic and cultural fair in the region.",
     "desc_ar": "تجمع شركات محلية ودولية، وأجنحة تخصصية، وعروض فنية وثقافية.",
@@ -23,21 +22,20 @@
   },
   {
     "id": "ev-002",
-    "title_ar": "مهرجان بصرى الثقافي",
+    "title_ar": "مهرجان بصرى الغنائي",
     "title_en": "Bosra Cultural Festival",
     "date": "2025-11-15",
-    "category": "culture",
+    "category": "music",
     "city_ar": "درعا",
     "city_en": "Daraa",
     "venue": "المدرج الروماني",
     "organizer": "مديرية الثقافة",
-    "thumb": "https://picsum.photos/seed/ev-002-thumb/400/400",
+    "thumb": "/assets/images/events/bosra.jpg",
     "gallery": [
-      "https://picsum.photos/seed/ev-002-g1/1200/700",
-      "https://picsum.photos/seed/ev-002-g2/1200/700",
-      "https://picsum.photos/seed/ev-002-g3/1200/700"
+      "/assets/images/events/bosra4.jpg",
+      "/assets/images/events/bosra3.jpg"
     ],
-    "map": "https://picsum.photos/seed/ev-002-map/640/360",
+    "map": "/assets/images/events/map-daraa.png",
     "summary_ar": "أمسيات موسيقية ومسرحية في المدرج الأثري.",
     "summary_en": "Music and theatre nights in the Roman theatre.",
     "desc_ar": "عروض حيّة تسلط الضوء على التراث المحلي والفرق المشاركة.",
@@ -45,28 +43,6 @@
   },
   {
     "id": "ev-003",
-    "title_ar": "مهرجان حلب الثقافي",
-    "title_en": "Aleppo Cultural Days",
-    "date": "2025-12-05",
-    "category": "culture",
-    "city_ar": "حلب",
-    "city_en": "Aleppo",
-    "venue": "دار الثقافة",
-    "organizer": "مديرية الثقافة بحلب",
-    "thumb": "https://picsum.photos/seed/ev-003-thumb/400/400",
-    "gallery": [
-      "https://picsum.photos/seed/ev-003-g1/1200/700",
-      "https://picsum.photos/seed/ev-003-g2/1200/700",
-      "https://picsum.photos/seed/ev-003-g3/1200/700"
-    ],
-    "map": "https://picsum.photos/seed/ev-003-map/640/360",
-    "summary_ar": "عروض موسيقية ومعارض فنون تشكيلية.",
-    "summary_en": "Music performances and visual arts exhibitions.",
-    "desc_ar": "برامج متنوعة تستضيف فنانين محليين وشباب.",
-    "desc_en": "Varied programs hosting local and young artists."
-  },
-  {
-    "id": "ev-004",
     "title_ar": "سوق الحميدية للفنون",
     "title_en": "Souq Al-Hamidiyah Art Fair",
     "date": "2025-11-30",
@@ -75,42 +51,20 @@
     "city_en": "Damascus",
     "venue": "سوق الحميدية",
     "organizer": "غرفة السياحة",
-    "thumb": "https://picsum.photos/seed/ev-004-thumb/400/400",
+    "thumb": "/assets/images/events/art.jpg",
     "gallery": [
-      "https://picsum.photos/seed/ev-004-g1/1200/700",
-      "https://picsum.photos/seed/ev-004-g2/1200/700",
-      "https://picsum.photos/seed/ev-004-g3/1200/700"
+      "/assets/images/events/art hamadeh.jpg",
+      "/assets/images/events/art1.jpg"
     ],
-    "map": "https://picsum.photos/seed/ev-004-map/640/360",
+    "map": "/assets/images/events/map_damas.png",
     "summary_ar": "حرف يدوية وأعمال فنية محلية.",
     "summary_en": "Local handicrafts and art works.",
     "desc_ar": "معرض مفتوح يضم حرفيين وفنانين من مختلف المحافظات.",
     "desc_en": "An open fair with artisans from various governorates."
   },
+
   {
-    "id": "ev-005",
-    "title_ar": "ليلة جاز دمشق",
-    "title_en": "Damascus Jazz Night",
-    "date": "2025-10-27",
-    "category": "music",
-    "city_ar": "دمشق",
-    "city_en": "Damascus",
-    "venue": "دار الأوبرا",
-    "organizer": "دار الأوبرا",
-    "thumb": "https://picsum.photos/seed/ev-005-thumb/400/400",
-    "gallery": [
-      "https://picsum.photos/seed/ev-005-g1/1200/700",
-      "https://picsum.photos/seed/ev-005-g2/1200/700",
-      "https://picsum.photos/seed/ev-005-g3/1200/700"
-    ],
-    "map": "https://picsum.photos/seed/ev-005-map/640/360",
-    "summary_ar": "أمسية جاز مع فرق محلية.",
-    "summary_en": "Jazz evening with local bands.",
-    "desc_ar": "مقطوعات كلاسيكية وتوزيعات حديثة بإيقاعات حية.",
-    "desc_en": "Classics and modern arrangements with live rhythms."
-  },
-  {
-    "id": "ev-006",
+    "id": "ev-004",
     "title_ar": "مهرجان الموسيقى في تدمر",
     "title_en": "Palmyra Music Night",
     "date": "2025-12-18",
@@ -119,64 +73,41 @@
     "city_en": "Homs",
     "venue": "موقع تدمر الأثري",
     "organizer": "جمعية الثقافة",
-    "thumb": "https://picsum.photos/seed/ev-006-thumb/400/400",
+    "thumb": "/assets/images/events/music.jpg",
     "gallery": [
-      "https://picsum.photos/seed/ev-006-g1/1200/700",
-      "https://picsum.photos/seed/ev-006-g2/1200/700",
-      "https://picsum.photos/seed/ev-006-g3/1200/700"
+      "/assets/images/events/music1.jpg",
+      "/assets/images/events/music2.jpg"
     ],
-    "map": "https://picsum.photos/seed/ev-006-map/640/360",
+    "map": "/assets/images/events/tadmr.png",
     "summary_ar": "حفلات موسيقية في أجواء تاريخية.",
     "summary_en": "Concerts in a historic setting.",
     "desc_ar": "مشاركة فرق تغني التراث بمقامات شرقية.",
     "desc_en": "Ensembles performing heritage with oriental maqams."
   },
   {
-    "id": "ev-007",
-    "title_ar": "أمسيات الطرب الحلبي",
-    "title_en": "Aleppine Tarab Evenings",
-    "date": "2025-12-12",
-    "category": "music",
-    "city_ar": "حلب",
-    "city_en": "Aleppo",
-    "venue": "قلعة حلب",
-    "organizer": "مديرية الثقافة",
-    "thumb": "https://picsum.photos/seed/ev-007-thumb/400/400",
-    "gallery": [
-      "https://picsum.photos/seed/ev-007-g1/1200/700",
-      "https://picsum.photos/seed/ev-007-g2/1200/700",
-      "https://picsum.photos/seed/ev-007-g3/1200/700"
-    ],
-    "map": "https://picsum.photos/seed/ev-007-map/640/360",
-    "summary_ar": "موشحات وقدود حلبية.",
-    "summary_en": "Muwashahat and Qudud Halabiya.",
-    "desc_ar": "أصوات شامية تقدم روائع الطرب الأصيل.",
-    "desc_en": "Shami voices presenting classic Tarab."
-  },
-  {
-    "id": "ev-008",
+    "id": "ev-005",
     "title_ar": "حفل ترانيم الميلاد",
     "title_en": "Christmas Carols Concert",
-    "date": "2025-12-24",
+    "date": "2025-10-27",
     "category": "music",
     "city_ar": "طرطوس",
     "city_en": "Tartus",
     "venue": "الكنيسة القديمة",
     "organizer": "جوقة طرطوس",
-    "thumb": "https://picsum.photos/seed/ev-008-thumb/400/400",
+    "thumb": "/assets/images/events/christmas.jpg",
     "gallery": [
-      "https://picsum.photos/seed/ev-008-g1/1200/700",
-      "https://picsum.photos/seed/ev-008-g2/1200/700",
-      "https://picsum.photos/seed/ev-008-g3/1200/700"
+      "/assets/images/events/christmas1.jpg",
+      "/assets/images/events/christmas2.jpg",
+      "/assets/images/events/Christmas4.jpg"
     ],
-    "map": "https://picsum.photos/seed/ev-008-map/640/360",
+    "map": "/assets/images/events/tartous.png",
     "summary_ar": "ترانيم وأغانٍ تراثية للأعياد.",
     "summary_en": "Traditional holiday carols.",
     "desc_ar": "برنامج متنوع بمشاركة جوقات شبابية.",
     "desc_en": "Varied program with youth choirs."
   },
   {
-    "id": "ev-009",
+    "id": "ev-006",
     "title_ar": "ماراثون دمشق",
     "title_en": "Damascus Marathon",
     "date": "2025-10-29",
@@ -185,20 +116,19 @@
     "city_en": "Damascus",
     "venue": "مدينة الفيحاء",
     "organizer": "اللجنة الأولمبية السورية",
-    "thumb": "https://picsum.photos/seed/ev-009-thumb/400/400",
+    "thumb": "/assets/images/events/marathon.jpg",
     "gallery": [
-      "https://picsum.photos/seed/ev-009-g1/1200/700",
-      "https://picsum.photos/seed/ev-009-g2/1200/700",
-      "https://picsum.photos/seed/ev-009-g3/1200/700"
+      "/assets/images/events/marathon1.jpg",
+      "/assets/images/events/marathon2.jpg"
     ],
-    "map": "https://picsum.photos/seed/ev-009-map/640/360",
+    "map": "/assets/images/events/map_damas.png",
     "summary_ar": "سباق جري لمسافات متنوعة.",
     "summary_en": "Running race with varied distances.",
     "desc_ar": "مسارات للهواة والمحترفين مع تنظيم طبي وخدمي.",
     "desc_en": "Routes for amateurs and pros with medical and service support."
   },
   {
-    "id": "ev-010",
+    "id": "ev-007",
     "title_ar": "بطولة كرة سلة جامعية",
     "title_en": "University Basketball Championship",
     "date": "2025-11-10",
@@ -207,20 +137,19 @@
     "city_en": "Damascus",
     "venue": "الصالة الرياضية",
     "organizer": "اتحاد الجامعات",
-    "thumb": "https://picsum.photos/seed/ev-010-thumb/400/400",
+    "thumb": "/assets/images/events/backetball.jpg",
     "gallery": [
-      "https://picsum.photos/seed/ev-010-g1/1200/700",
-      "https://picsum.photos/seed/ev-010-g2/1200/700",
-      "https://picsum.photos/seed/ev-010-g3/1200/700"
+      "/assets/images/events/backetball1.jpg",
+      "/assets/images/events/backetball2.jpg"
     ],
-    "map": "https://picsum.photos/seed/ev-010-map/640/360",
+    "map": "/assets/images/events/map_damas.png",
     "summary_ar": "مواجهات تنافسية بين الفرق.",
     "summary_en": "Competitive matchups between teams.",
     "desc_ar": "أجواء حماسية وحضور طلابي واسع.",
     "desc_en": "Energetic atmosphere with student attendance."
   },
   {
-    "id": "ev-011",
+    "id": "ev-008",
     "title_ar": "سباق دراجات اللاذقية",
     "title_en": "Latakia Cycling Race",
     "date": "2025-11-22",
@@ -229,42 +158,41 @@
     "city_en": "Latakia",
     "venue": "الكورنيش",
     "organizer": "الاتحاد الرياضي العام",
-    "thumb": "https://picsum.photos/seed/ev-011-thumb/400/400",
+    "thumb": "/assets/images/events/run.jpg",
     "gallery": [
-      "https://picsum.photos/seed/ev-011-g1/1200/700",
-      "https://picsum.photos/seed/ev-011-g2/1200/700",
-      "https://picsum.photos/seed/ev-011-g3/1200/700"
+      "/assets/images/events/run1.jpg",
+      "/assets/images/events/run2.jpg",
+      "/assets/images/events/run3.jpg"
     ],
-    "map": "https://picsum.photos/seed/ev-011-map/640/360",
+    "map": "/assets/images/events/map-latkia.png",
     "summary_ar": "سباق على الكورنيش البحري.",
     "summary_en": "Race along the seaside corniche.",
     "desc_ar": "مشاركة نوادي من محافظات عدة ومسارات آمنة.",
     "desc_en": "Clubs from multiple provinces on safe routes."
   },
   {
-    "id": "ev-012",
-    "title_ar": "كرنفال اللاذقية",
-    "title_en": "Latakia Carnival",
+    "id": "ev-009",
+    "title_ar": "المؤتمر الطبي",
+    "title_en": "Medical conference",
     "date": "2025-08-14",
-    "category": "family",
+    "category": "culture",
     "city_ar": "اللاذقية",
     "city_en": "Latakia",
     "venue": "وسط المدينة",
     "organizer": "مجلس المدينة",
-    "thumb": "https://picsum.photos/seed/ev-012-thumb/400/400",
+    "thumb": "/assets/images/events/med.jpg",
     "gallery": [
-      "https://picsum.photos/seed/ev-012-g1/1200/700",
-      "https://picsum.photos/seed/ev-012-g2/1200/700",
-      "https://picsum.photos/seed/ev-012-g3/1200/700"
+      "/assets/images/events/med3.jpg",
+      "/assets/images/events/med2.jpg"
     ],
-    "map": "https://picsum.photos/seed/ev-012-map/640/360",
-    "summary_ar": "استعراضات وأزياء وعروض شارع.",
-    "summary_en": "Parades, costumes, and street shows.",
-    "desc_ar": "أجواء احتفالية تناسب كل الأعمار.",
-    "desc_en": "Fun celebrations for all ages."
+    "map": "/assets/images/events/map-latkia.png",
+    "summary_ar": "مؤتمر طبي يضم نخبة من الأطباء والخبراء لمناقشة أحدث التطورات في مجال الصحة.",
+    "summary_en": "A medical conference gathering top doctors and experts to discuss the latest developments in healthcare.",
+    "desc_ar": "يهدف إلى تعزيز الوعي الصحي في المجتمع وتوحيد جهود لأجل محاربة الجهل في المجتمع تجاه الصحة",
+    "desc_en": "It aims to enhance health awareness in the community and unify efforts to combat ignorance in society regarding health."
   },
   {
-    "id": "ev-013",
+    "id": "ev-010",
     "title_ar": "مهرجان الزهور بتشرين",
     "title_en": "Tishreen Flowers Fair",
     "date": "2025-06-27",
@@ -273,57 +201,54 @@
     "city_en": "Damascus",
     "venue": "حديقة تشرين",
     "organizer": "محافظة دمشق",
-    "thumb": "https://picsum.photos/seed/ev-013-thumb/400/400",
+    "thumb": "/assets/images/events/flowers.jpg",
     "gallery": [
-      "https://picsum.photos/seed/ev-013-g1/1200/700",
-      "https://picsum.photos/seed/ev-013-g2/1200/700",
-      "https://picsum.photos/seed/ev-013-g3/1200/700"
+      "/assets/images/events/flowers2.jpg",
+      "/assets/images/events/flowers3.jpg"
     ],
-    "map": "https://picsum.photos/seed/ev-013-map/640/360",
+    "map": "/assets/images/events/map_damas.png",
     "summary_ar": "معرض أزهار ومنتجات حدائق.",
     "summary_en": "Flowers and garden products fair.",
     "desc_ar": "أنشطة ترفيهية ومساحات عرض مفتوحة.",
     "desc_en": "Recreational activities and open display spaces."
   },
   {
-    "id": "ev-014",
+    "id": "ev-011",
     "title_ar": "مهرجان إعمار سوريا",
     "title_en": "Syria Reconstruction festival",
     "date": "2025-08-15",
-    "category": "family",
+    "category": "culture",
     "city_ar": "حمص",
     "city_en": "Homs",
     "venue": "وادي النصارى",
     "organizer": "الفعاليات الأهلية",
-    "thumb": "https://picsum.photos/seed/ev-014-thumb/400/400",
+    "thumb": "/assets/images/events/eco1.jpg",
     "gallery": [
-      "https://picsum.photos/seed/ev-014-g1/1200/700",
-      "https://picsum.photos/seed/ev-014-g2/1200/700",
-      "https://picsum.photos/seed/ev-014-g3/1200/700"
+      "/assets/images/events/eco3.jpg",
+      "/assets/images/events/eco4.jpg"
     ],
-    "map": "https://picsum.photos/seed/ev-014-map/640/360",
-    "summary_ar": "كرنفال صيفي بعروض موسيقية.",
-    "summary_en": "Summer carnival with music shows.",
+    "map": "/assets/images/events/Homs-map.png",
+    "summary_ar": "مهرجان وطني يجمع العائلات للاحتفال بإعمار سوريا وتعزيز روح الأمل والتعاون.",
+    "summary_en": "A national festival bringing families together to celebrate Syria’s reconstruction and promote hope and unity.",
     "desc_ar": "يهدف إلى تعزيز الوعي الصحي في المجتمع وتوحيد جهود لأجل محاربة الجهل في المجتمع تجاه الصحة",
     "desc_en": "It aims to enhance health awareness in the community and unify efforts to combat ignorance in society regarding health."
   },
   {
-    "id": "ev-015",
+    "id": "ev-012",
     "title_ar": "مهرجان الطعام السوري",
     "title_en": "Syrian Food Festival",
-    "date": "2025-12-20",
+    "date": "2025-11-28",
     "category": "family",
-  "city_ar": "دمشق",
+    "city_ar": "دمشق",
     "city_en": "Damascus",
     "venue": "حديقة تشرين",
     "organizer": "جمعية الطهاة",
-    "thumb": "https://picsum.photos/seed/ev-015-thumb/400/400",
+    "thumb": "/assets/images/events/food.jpg",
     "gallery": [
-      "https://picsum.photos/seed/ev-015-g1/1200/700",
-      "https://picsum.photos/seed/ev-015-g2/1200/700",
-      "https://picsum.photos/seed/ev-015-g3/1200/700"
+      "/assets/images/events/food1.jpg",
+      "/assets/images/events/food4.jpg"
     ],
-    "map": "https://picsum.photos/seed/ev-015-map/640/360",
+    "map": "/assets/images/events/map_damas.png",
     "summary_ar": "تذوّق أطباق محلية ومسابقات.",
     "summary_en": "Taste local dishes and contests.",
     "desc_ar": "سوق شعبي ومنصات عرض للطهاة.",
