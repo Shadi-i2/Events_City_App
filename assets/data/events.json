@@ -51,12 +51,12 @@
     "city_en": "Damascus",
     "venue": "سوق الحميدية",
     "organizer": "غرفة السياحة",
-    "thumb": "/assets/images/events/art.jpg",
+    "thumb": "assets/images/events/art.jpg",
     "gallery": [
-      "/assets/images/events/art hamadeh.jpg",
-      "/assets/images/events/art1.jpg"
+      "assets/images/events/art hamadeh.jpg",
+      "assets/images/events/art1.jpg"
     ],
-    "map": "/assets/images/events/map_damas.png",
+    "map": "assets/images/events/map_damas.png",
     "summary_ar": "حرف يدوية وأعمال فنية محلية.",
     "summary_en": "Local handicrafts and art works.",
     "desc_ar": "معرض مفتوح يضم حرفيين وفنانين من مختلف المحافظات.",
@@ -73,12 +73,12 @@
     "city_en": "Homs",
     "venue": "موقع تدمر الأثري",
     "organizer": "جمعية الثقافة",
-    "thumb": "/assets/images/events/music.jpg",
+    "thumb": "assets/images/events/music.jpg",
     "gallery": [
-      "/assets/images/events/music1.jpg",
-      "/assets/images/events/music2.jpg"
+      "assets/images/events/music1.jpg",
+      "assets/images/events/music2.jpg"
     ],
-    "map": "/assets/images/events/tadmr.png",
+    "map": "assets/images/events/tadmr.png",
     "summary_ar": "حفلات موسيقية في أجواء تاريخية.",
     "summary_en": "Concerts in a historic setting.",
     "desc_ar": "مشاركة فرق تغني التراث بمقامات شرقية.",
@@ -94,13 +94,13 @@
     "city_en": "Tartus",
     "venue": "الكنيسة القديمة",
     "organizer": "جوقة طرطوس",
-    "thumb": "/assets/images/events/christmas.jpg",
+    "thumb": "assets/images/events/christmas.jpg",
     "gallery": [
-      "/assets/images/events/christmas1.jpg",
-      "/assets/images/events/christmas2.jpg",
-      "/assets/images/events/Christmas4.jpg"
+      "assets/images/events/christmas1.jpg",
+      "assets/images/events/christmas2.jpg",
+      "assets/images/events/Christmas4.jpg"
     ],
-    "map": "/assets/images/events/tartous.png",
+    "map": "assets/images/events/tartous.png",
     "summary_ar": "ترانيم وأغانٍ تراثية للأعياد.",
     "summary_en": "Traditional holiday carols.",
     "desc_ar": "برنامج متنوع بمشاركة جوقات شبابية.",
@@ -116,12 +116,12 @@
     "city_en": "Damascus",
     "venue": "مدينة الفيحاء",
     "organizer": "اللجنة الأولمبية السورية",
-    "thumb": "/assets/images/events/marathon.jpg",
+    "thumb": "assets/images/events/marathon.jpg",
     "gallery": [
-      "/assets/images/events/marathon1.jpg",
-      "/assets/images/events/marathon2.jpg"
+      "assets/images/events/marathon1.jpg",
+      "assets/images/events/marathon2.jpg"
     ],
-    "map": "/assets/images/events/map_damas.png",
+    "map": "assets/images/events/map_damas.png",
     "summary_ar": "سباق جري لمسافات متنوعة.",
     "summary_en": "Running race with varied distances.",
     "desc_ar": "مسارات للهواة والمحترفين مع تنظيم طبي وخدمي.",
@@ -137,12 +137,12 @@
     "city_en": "Damascus",
     "venue": "الصالة الرياضية",
     "organizer": "اتحاد الجامعات",
-    "thumb": "/assets/images/events/backetball.jpg",
+    "thumb": "assets/images/events/backetball.jpg",
     "gallery": [
-      "/assets/images/events/backetball1.jpg",
-      "/assets/images/events/backetball2.jpg"
+      "assets/images/events/backetball1.jpg",
+      "assets/images/events/backetball2.jpg"
     ],
-    "map": "/assets/images/events/map_damas.png",
+    "map": "assets/images/events/map_damas.png",
     "summary_ar": "مواجهات تنافسية بين الفرق.",
     "summary_en": "Competitive matchups between teams.",
     "desc_ar": "أجواء حماسية وحضور طلابي واسع.",
@@ -158,13 +158,13 @@
     "city_en": "Latakia",
     "venue": "الكورنيش",
     "organizer": "الاتحاد الرياضي العام",
-    "thumb": "/assets/images/events/run.jpg",
+    "thumb": "assets/images/events/run.jpg",
     "gallery": [
-      "/assets/images/events/run1.jpg",
-      "/assets/images/events/run2.jpg",
-      "/assets/images/events/run3.jpg"
+      "assets/images/events/run1.jpg",
+      "assets/images/events/run2.jpg",
+      "assets/images/events/run3.jpg"
     ],
-    "map": "/assets/images/events/map-latkia.png",
+    "map": "assets/images/events/map-latkia.png",
     "summary_ar": "سباق على الكورنيش البحري.",
     "summary_en": "Race along the seaside corniche.",
     "desc_ar": "مشاركة نوادي من محافظات عدة ومسارات آمنة.",
@@ -180,12 +180,12 @@
     "city_en": "Latakia",
     "venue": "وسط المدينة",
     "organizer": "مجلس المدينة",
-    "thumb": "/assets/images/events/med.jpg",
+    "thumb": "assets/images/events/med.jpg",
     "gallery": [
-      "/assets/images/events/med3.jpg",
-      "/assets/images/events/med2.jpg"
+      "assets/images/events/med3.jpg",
+      "assets/images/events/med2.jpg"
     ],
-    "map": "/assets/images/events/map-latkia.png",
+    "map": "assets/images/events/map-latkia.png",
     "summary_ar": "مؤتمر طبي يضم نخبة من الأطباء والخبراء لمناقشة أحدث التطورات في مجال الصحة.",
     "summary_en": "A medical conference gathering top doctors and experts to discuss the latest developments in healthcare.",
     "desc_ar": "يهدف إلى تعزيز الوعي الصحي في المجتمع وتوحيد جهود لأجل محاربة الجهل في المجتمع تجاه الصحة",
@@ -201,12 +201,12 @@
     "city_en": "Damascus",
     "venue": "حديقة تشرين",
     "organizer": "محافظة دمشق",
-    "thumb": "/assets/images/events/flowers.jpg",
+    "thumb": "assets/images/events/flowers.jpg",
     "gallery": [
-      "/assets/images/events/flowers2.jpg",
-      "/assets/images/events/flowers3.jpg"
+      "assets/images/events/flowers2.jpg",
+      "assets/images/events/flowers3.jpg"
     ],
-    "map": "/assets/images/events/map_damas.png",
+    "map": "assets/images/events/map_damas.png",
     "summary_ar": "معرض أزهار ومنتجات حدائق.",
     "summary_en": "Flowers and garden products fair.",
     "desc_ar": "أنشطة ترفيهية ومساحات عرض مفتوحة.",
@@ -222,12 +222,12 @@
     "city_en": "Homs",
     "venue": "وادي النصارى",
     "organizer": "الفعاليات الأهلية",
-    "thumb": "/assets/images/events/eco1.jpg",
+    "thumb": "assets/images/events/eco1.jpg",
     "gallery": [
-      "/assets/images/events/eco3.jpg",
-      "/assets/images/events/eco4.jpg"
+      "assets/images/events/eco3.jpg",
+      "assets/images/events/eco4.jpg"
     ],
-    "map": "/assets/images/events/Homs-map.png",
+    "map": "assets/images/events/Homs-map.png",
     "summary_ar": "مهرجان وطني يجمع العائلات للاحتفال بإعمار سوريا وتعزيز روح الأمل والتعاون.",
     "summary_en": "A national festival bringing families together to celebrate Syria’s reconstruction and promote hope and unity.",
     "desc_ar": "يهدف إلى تعزيز الوعي الصحي في المجتمع وتوحيد جهود لأجل محاربة الجهل في المجتمع تجاه الصحة",
@@ -243,12 +243,12 @@
     "city_en": "Damascus",
     "venue": "حديقة تشرين",
     "organizer": "جمعية الطهاة",
-    "thumb": "/assets/images/events/food.jpg",
+    "thumb": "assets/images/events/food.jpg",
     "gallery": [
-      "/assets/images/events/food1.jpg",
-      "/assets/images/events/food4.jpg"
+      "assets/images/events/food1.jpg",
+      "assets/images/events/food4.jpg"
     ],
-    "map": "/assets/images/events/map_damas.png",
+    "map": "assets/images/events/map_damas.png",
     "summary_ar": "تذوّق أطباق محلية ومسابقات.",
     "summary_en": "Taste local dishes and contests.",
     "desc_ar": "سوق شعبي ومنصات عرض للطهاة.",
