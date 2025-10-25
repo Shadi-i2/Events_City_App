@@ -9,12 +9,12 @@
     "city_en": "Damascus",
     "venue": "مدينة المعارض",
     "organizer": "وزارة الاقتصاد والتجارة الخارجية",
-    "thumb": "/assets/images/events/damas.jpg",
+    "thumb": "assets/images/events/damas.jpg",
     "gallery": [
-      "/assets/images/events/damas1.jpg",
-      "/assets/images/events/damas2.jpg"
+      "assets/images/events/damas1.jpg",
+      "assets/images/events/damas2.jpg"
     ],
-    "map": "/assets/images/events/map_damas.png",
+    "map": "assets/images/events/map_damas.png",
     "summary_ar": "منصة اقتصادية وثقافية كبرى على مستوى المنطقة.",
     "summary_en": "A major economic and cultural fair in the region.",
     "desc_ar": "تجمع شركات محلية ودولية، وأجنحة تخصصية، وعروض فنية وثقافية.",
@@ -30,12 +30,12 @@
     "city_en": "Daraa",
     "venue": "المدرج الروماني",
     "organizer": "مديرية الثقافة",
-    "thumb": "/assets/images/events/bosra.jpg",
+    "thumb": "assets/images/events/bosra.jpg",
     "gallery": [
-      "/assets/images/events/bosra4.jpg",
-      "/assets/images/events/bosra3.jpg"
+      "assets/images/events/bosra4.jpg",
+      "assets/images/events/bosra3.jpg"
     ],
-    "map": "/assets/images/events/map-daraa.png",
+    "map": "assets/images/events/map-daraa.png",
     "summary_ar": "أمسيات موسيقية ومسرحية في المدرج الأثري.",
     "summary_en": "Music and theatre nights in the Roman theatre.",
     "desc_ar": "عروض حيّة تسلط الضوء على التراث المحلي والفرق المشاركة.",
